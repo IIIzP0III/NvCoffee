@@ -47,6 +47,9 @@ local plugins={
       crates.show()
     end,
   },
+  {
+    'mfussenegger/nvim-jdtls'
+  }
 }
 
 return plugins
