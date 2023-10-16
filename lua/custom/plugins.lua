@@ -25,7 +25,8 @@ local plugins={
     opts = {
       ensure_installed = {
         "rust-analyzer",
-        "typescript-language-server"
+        "typescript-language-server",
+        "bash-language-server",
       }
     }
   },
